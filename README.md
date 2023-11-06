@@ -8,7 +8,7 @@ A decentralised platform for getting funding for your campaigns like Kickstarter
 
 
 
-Connect with your metamask wallet and switch to Sepolia Ethereum Testnet 
+Connect with your metamask wallet and switch to Sepolia Ethereum Testnet
 
 <img width="765" alt="Screenshot 2023-11-06 at 12 22 43 PM" src="https://github.com/veer-chheda/crowdfunding/assets/114056626/b73e098e-8dfb-4c7d-a819-2cb08840fe8a">
 
